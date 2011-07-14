@@ -2,9 +2,9 @@
 <widget xmlns="http://www.w3.org/ns/widgets"
   xmlns:gap	="http://phonegap.com/ns/1.0"
   id="com.calebcornman.byober"
-  version="0.1.0">
+  version="0.1.1">
 
-  <name>byober</name>
+  <name>byob</name>
 
   <description>
     Find byob restaurants in your area.
